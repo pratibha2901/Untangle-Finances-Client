@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@import "./buttonConfig.css";
+@import "./headerConfig.css";
+@import "./iconConfig.css";
